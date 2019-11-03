@@ -1,0 +1,174 @@
+p {
+    color: greenyellow;
+    text-align: center;
+    height: 120px;
+    width: 100px;
+    
+  } 
+
+  h1{
+      color: black;
+      text-align: center;
+     
+      
+  }
+ 
+
+  body {
+    background-color:black;
+  }
+
+ #message{
+  position: fixed;
+  top: 200px;
+  left: 600px;
+  border: 4px solid maroon;
+  border-radius: 8px;
+  padding: 1px;
+  z-index: 20;
+  
+  }
+
+  #bot1score{
+    position: fixed;
+  top: 200px;
+  left: 800px;
+  border: 4px solid maroon;
+  border-radius: 8px;
+  padding: 1px;
+  z-index: 20;
+  
+    
+
+    }
+    #bot2score{
+      position: fixed;
+    top: 200px;
+    left: 1000px;
+    border: 4px solid maroon;
+    border-radius: 8px;
+    padding: 1px;
+    z-index: 20;
+    
+      
+  
+      }
+  .backg {
+      
+    position: absolute;
+  left: 535px;
+  top: 200px;
+    border: 8px solid maroon;
+    border-radius: 8px;
+    padding: 4px;
+    
+    
+  }
+
+  .button1
+  {
+    color: black;
+    text-align: center;
+
+  }
+
+  .contact
+  {
+      position: absolute;
+
+      top: 1000px;
+
+
+  }
+
+  .Header
+  {
+      letter-spacing: 5px;
+      font-family: sans-serif;
+      color: maroon;
+      font-size: 120px;
+    position: absolute;
+    top: 8px;
+    left: 64px;
+  }
+
+  #rock
+  {
+    position: absolute;
+    top: 550px;
+    left: 550px;
+  }
+
+  #rock:hover {
+    width:10%;
+    height:10%;
+    position:absolute;
+    background-color:#000;
+    opacity:0.5;
+    border-radius:30px;
+}
+
+#paper
+  {
+    position: absolute;
+    top: 550px;
+    left: 720px;
+  }
+
+  #paper:hover {
+    width:10%;
+    height:10%;
+    position:absolute;
+    background-color:#000;
+    opacity:0.5;
+    border-radius:30px;
+}
+
+#scissors
+  {
+    position: absolute;
+    top: 550px;
+    left: 890px;
+  }
+
+  #scissors:hover {
+    width:10%;
+    height:10%;
+    position:absolute;
+    background-color:#000;
+    opacity:0.5;
+    border-radius:30px;
+}
+
+#lizard
+  {
+    position: absolute;
+    top: 550px;
+    left: 1060px;
+  }
+
+  #lizard:hover {
+    width:10%;
+    height:10%;
+    position:absolute;
+    background-color:#000;
+    opacity:0.5;
+    border-radius:30px;
+}
+
+#spock
+  {
+    position: absolute;
+    top: 550px;
+    left: 1230px;
+  }
+
+  #spock:hover {
+    width:10%;
+    height:10%;
+    position:absolute;
+    background-color:#000;
+    opacity:0.5;
+    border-radius:30px;
+}
+  
